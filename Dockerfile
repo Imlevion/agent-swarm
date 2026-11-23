@@ -179,7 +179,7 @@ ENV SCRIPT_WORKFLOW_RUNTIME_DIR=/app/script-workflows-runtime
 ENV TS_LIB_DIR=/app/typescript-lib
 ENV SCRIPT_TYPES_DIR=/app/script-types
 
-VOLUME /app/data
+#VOLUME /app/data
 
 EXPOSE 3013
 
